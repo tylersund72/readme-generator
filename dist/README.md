@@ -1,7 +1,4 @@
-
-  
-  # ty
-
+# ty
 
   ## Table of Contents
   - [Description](#description)
@@ -13,23 +10,23 @@
   - [Questions](#questions)
 
   ## Description
-  na
+  ty
 
   ## Installation
-  na
+  ty
 
   ## Usage
-  na
+  ty
 
   ## Contributions
-  na
+  ty
 
   ## Testing
-  na
+  ty
 
   ## License
-  mit
-  ![license][(https://img.shields.io/badge/license-mit-blue)]
+  ty
+  ![license][(https://img.shields.io/badge/license-ty-blue)]
 
   ## Questions
   Please reach out to me via github or email if you have any questions.

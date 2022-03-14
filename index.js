@@ -11,7 +11,7 @@ const questions = [
   "What will your project be used for?",
   "What are the contribution details for you project?",
   "Would you like to include test instructions?",
-  "Please pick a license for your project",
+  "Which license would you like your project to have?",
   "Please provide your GitHub username",
   "Please provide your email address connected to GitHub",
 ];
@@ -53,7 +53,7 @@ const promptQuestions = () => {
         type: "input",
         name: "license",
         message: questions[6],
-        choices: ["Apache", "MIT", "GNU", "Mozilla", "None"],
+        choices: ['Apache', 'MIT', 'GNU', 'Mozilla', 'None'],
       },
       {
         type: "input",
