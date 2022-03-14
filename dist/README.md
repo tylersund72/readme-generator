@@ -1,4 +1,4 @@
-# ty
+# Tyler's project
 
   ## Table of Contents
   - [Description](#description)
@@ -10,26 +10,26 @@
   - [Questions](#questions)
 
   ## Description
-  ty
+  README Demo
 
   ## Installation
-  ty
+  NA
 
   ## Usage
-  ty
+  Demonstration
 
   ## Contributions
-  ty
+  Tyler Sundquist
 
   ## Testing
-  ty
+  No
 
   ## License
-  ty
-  ![license][(https://img.shields.io/badge/license-ty-blue)]
+  MIT
+  ![license][(https://img.shields.io/badge/license-MIT-blue)]
 
   ## Questions
   Please reach out to me via github or email if you have any questions.
-  - GitHub: [ty](https://github.com/ty)
-  - Email: ty
+  - GitHub: [tylersund72](https://github.com/tylersund72)
+  - Email: tylersundquist3@gmail.com
 
