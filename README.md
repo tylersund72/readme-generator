@@ -1,3 +1,10 @@
-# Professional README Generator Starter Code
+# README Generator
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+# Built with
+- Node.js
+- JavaScript
+
+# Description
+A simple generator used to create README.md files for GitHub projects
+
+# Demonstration Video
